@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answer": "Paris"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "answer": "Central Processing Unit"
+  },
+  {
+    "question": "What keyword defines a function in Python?",
+    "answer": "def"
+  }
+]
